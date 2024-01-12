@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>2d3aa447970631104ba4b380f053afee</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="incident">
+    <incident action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due>2023-11-13 11:53:05</activity_due>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group display_value="Strawberry Support" name="Strawberry Support">04a5604e974231104ba4b380f053afef</assignment_group>
+        <business_duration>1970-01-04 16:00:00</business_duration>
+        <business_impact/>
+        <business_service display_value="Telephone Services">11972c43970631104ba4b380f053af0c</business_service>
+        <business_stc>316800</business_stc>
+        <calendar_duration>1970-01-18 04:55:54</calendar_duration>
+        <calendar_stc>1486554</calendar_stc>
+        <caller_id display_value="Fred Luddy">5137153cc611227c000bbd1bd8cd2005</caller_id>
+        <category>inquiry</category>
+        <cause/>
+        <caused_by/>
+        <child_incidents>0</child_incidents>
+        <close_code>Known error</close_code>
+        <close_notes>done</close_notes>
+        <closed_at>2023-11-27 07:00:57</closed_at>
+        <closed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</closed_by>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>Hi there, my sFone dropped on the concrete, it didn't crack or anything but for some reason will no longer turn on, could you please take a look and see what can be done?</description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <hold_reason/>
+        <impact>1</impact>
+        <incident_state>7</incident_state>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <notify>1</notify>
+        <number>INC0010015</number>
+        <opened_at>2023-10-27 05:08:18</opened_at>
+        <opened_by display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</opened_by>
+        <order/>
+        <origin_id/>
+        <origin_table/>
+        <parent/>
+        <parent_incident/>
+        <priority>1</priority>
+        <problem_id/>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <reopen_count>0</reopen_count>
+        <reopened_by/>
+        <reopened_time/>
+        <resolved_at>2023-11-13 10:04:12</resolved_at>
+        <resolved_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</resolved_by>
+        <rfc/>
+        <route_reason/>
+        <service_offering display_value="Strawberry sFone">a2e72483970631104ba4b380f053af40</service_offering>
+        <severity>3</severity>
+        <short_description>Phone is no longer working</short_description>
+        <skills/>
+        <sla_due/>
+        <state>7</state>
+        <subcategory/>
+        <sys_class_name>incident</sys_class_name>
+        <sys_created_by>itil</sys_created_by>
+        <sys_created_on>2023-10-27 05:09:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2d3aa447970631104ba4b380f053afee</sys_id>
+        <sys_mod_count>94</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 07:00:57</sys_updated_on>
+        <task_effective_number>INC0010015</task_effective_number>
+        <time_worked/>
+        <u_escalate_to_manufacturer>false</u_escalate_to_manufacturer>
+        <u_manufacturer_contact/>
+        <u_pilot>false</u_pilot>
+        <u_sfone_model/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>1</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </incident>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-12 06:13:04</sys_created_on>
+        <sys_id>3c7b95bf972331104ba4b380f053afe9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INC0010015</sys_name>
+        <sys_package display_value="StrawberryFone" source="x_1130685_strawber">031b953b972331104ba4b380f053af5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StrawberryFone">031b953b972331104ba4b380f053af5f</sys_scope>
+        <sys_update_name>sys_metadata_link_3c7b95bf972331104ba4b380f053afe9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-12 06:13:04</sys_updated_on>
+        <tablename>incident</tablename>
+    </sys_metadata_link>
+</record_update>

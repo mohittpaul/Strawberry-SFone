@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>b0af1b5e9702b1104ba4b380f053af01</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sc_task">
+    <sc_task action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group display_value="Service Desk" name="Service Desk">d625dccec0a8016700a222a0f7900d06</assignment_group>
+        <business_duration>1970-01-01 00:00:00</business_duration>
+        <business_service/>
+        <calendar_duration/>
+        <calendar_stc/>
+        <cat_item display_value="Strawberry sFone">57e477c9872251101c7dfcc5dabb3548</cat_item>
+        <close_notes/>
+        <closed_at>2023-10-25 10:25:50</closed_at>
+        <closed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</closed_by>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>SCTASK0010006</number>
+        <opened_at>2023-10-25 10:25:31</opened_at>
+        <opened_by display_value="">system</opened_by>
+        <order/>
+        <parent display_value="RITM0010011">7ade171e9702b1104ba4b380f053afdd</parent>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <request display_value="REQ0010011">f2de171e9702b1104ba4b380f053afdd</request>
+        <request_item display_value="RITM0010011">7ade171e9702b1104ba4b380f053afdd</request_item>
+        <route_reason/>
+        <sc_catalog/>
+        <service_offering/>
+        <short_description>Deliver Strawberry sFone</short_description>
+        <skills/>
+        <sla_due/>
+        <state>3</state>
+        <sys_class_name>sc_task</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-25 10:25:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0af1b5e9702b1104ba4b380f053af01</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-25 10:25:50</sys_updated_on>
+        <task_effective_number>SCTASK0010006</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end>2023-10-25 10:25:50</work_end>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start>2023-10-25 10:25:31</work_start>
+    </sc_task>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-12 06:17:16</sys_created_on>
+        <sys_id>166cd973976331104ba4b380f053af94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SCTASK0010006</sys_name>
+        <sys_package display_value="StrawberryFone" source="x_1130685_strawber">031b953b972331104ba4b380f053af5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StrawberryFone">031b953b972331104ba4b380f053af5f</sys_scope>
+        <sys_update_name>sys_metadata_link_166cd973976331104ba4b380f053af94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-12 06:17:16</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>

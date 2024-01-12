@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>9461efde9702b1104ba4b380f053af9a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sc_req_item">
+    <sc_req_item action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>approved</approval>
+        <approval_history/>
+        <approval_set>2023-10-25 10:33:41</approval_set>
+        <assigned_to/>
+        <assignment_group/>
+        <backordered>false</backordered>
+        <billable>false</billable>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <cat_item display_value="Strawberry sFone">57e477c9872251101c7dfcc5dabb3548</cat_item>
+        <close_notes/>
+        <closed_at>2023-10-25 10:34:30</closed_at>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <configuration_item/>
+        <contact_type/>
+        <context/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date>2023-10-25 10:33:08</due_date>
+        <escalation>0</escalation>
+        <estimated_delivery/>
+        <expected_start/>
+        <flow_context display_value="">d061efdeb102b11081683559185e03c2</flow_context>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>RITM0010012</number>
+        <opened_at>2023-10-25 10:33:08</opened_at>
+        <opened_by display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</opened_by>
+        <order/>
+        <order_guide/>
+        <parent/>
+        <price>399</price>
+        <priority>4</priority>
+        <quantity>1</quantity>
+        <reassignment_count>0</reassignment_count>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <rejection_goto/>
+        <request display_value="REQ0010012">1061efde9702b1104ba4b380f053af9a</request>
+        <requested_for display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</requested_for>
+        <route_reason/>
+        <sc_catalog/>
+        <service_offering/>
+        <short_description>Strawberry sFone</short_description>
+        <skills/>
+        <sla_due/>
+        <stage>request_approved</stage>
+        <state>3</state>
+        <sys_class_name>sc_req_item</sys_class_name>
+        <sys_created_by>david.loo</sys_created_by>
+        <sys_created_on>2023-10-25 10:33:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9461efde9702b1104ba4b380f053af9a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-25 10:34:30</sys_updated_on>
+        <task_effective_number>RITM0010012</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </sc_req_item>
+    <fx_price action="delete_multiple" query="id=9461efde9702b1104ba4b380f053af9a"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>9461efde9702b1104ba4b380f053af9a</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>david.loo</sys_created_by>
+        <sys_created_on>2023-10-25 10:33:08</sys_created_on>
+        <sys_id>5061efde9702b1104ba4b380f053afa2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.loo</sys_updated_by>
+        <sys_updated_on>2023-10-25 10:33:08</sys_updated_on>
+        <table>sc_req_item</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-12 06:17:16</sys_created_on>
+        <sys_id>1e6cd973976331104ba4b380f053af8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RITM0010012</sys_name>
+        <sys_package display_value="StrawberryFone" source="x_1130685_strawber">031b953b972331104ba4b380f053af5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StrawberryFone">031b953b972331104ba4b380f053af5f</sys_scope>
+        <sys_update_name>sys_metadata_link_1e6cd973976331104ba4b380f053af8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-12 06:17:16</sys_updated_on>
+        <tablename>task</tablename>
+    </sys_metadata_link>
+</record_update>
